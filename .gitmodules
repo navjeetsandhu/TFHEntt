@@ -9,4 +9,4 @@
 	url = https://github.com/intel/hexl.git
 [submodule "thirdparties/concrete-fft"]
 	path = thirdparties/concrete-fft
-	url = https://github.com/navjeetsandhu/concrete-fft.git
+	url = https://github.com/navjeetsandhu/concrete-17fft.git
